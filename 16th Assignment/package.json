@@ -1,0 +1,18 @@
+{
+  "name": "16th-assignment",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.11.20"
+  },
+  "dependencies": {
+    "undici-types": "^5.26.5"
+  },
+  "description": ""
+}
